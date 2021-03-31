@@ -2,19 +2,19 @@
 
 ## 이력
 
-## Android QA Engineer
-### Google Korea
+### Android QA Engineer
+#### Google Korea
 ###### July 2018 -  June 2020
 
-## SSD Firmware QA Engineer
-### Sandisk Korea
+### SSD Firmware QA Engineer
+#### Sandisk Korea
 ###### Nov 2015 -  July 2016
 
-## SSD Firmware QA Engineer
-### Sandisk Korea
-###### Nov 2015 -  July 2016
-
-## Camera App Test Engineer
-### Intel Korea
+### Camera App Test Engineer
+#### Intel Korea
 ######  Apr 2015 -  Sep 2015
+
+
+## 자격증
+ISTQB
 
